@@ -1,0 +1,2 @@
+approval_test DEBUG Message is: Hello
+approval_test DEBUG Complex message is: Hello, you
